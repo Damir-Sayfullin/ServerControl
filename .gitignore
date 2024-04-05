@@ -4,3 +4,4 @@ venv
 .idea
 pyinstaller.txt
 *.spec
+*.json
